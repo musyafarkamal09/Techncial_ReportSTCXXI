@@ -6,7 +6,7 @@
  * Cara pakai: lihat README.md. Ubah KODE_AKSES, jalankan setup() sekali,
  * lalu Deploy > New deployment > Web app (Execute as: Me, Who has access: Anyone).
  */
-const KODE_AKSES = 'GANTI-DENGAN-KODE-RAHASIA-TIM';
+const KODE_AKSES = 'masterxxi2121';
 
 const SCHEMAS = {
   kerja: { sheet: 'Pengerjaan', cols: ['id','tanggal','lokasi','judul','uraian','teknisi','status','prioritas','photoIds','by','createdAt','updatedAt'] },
